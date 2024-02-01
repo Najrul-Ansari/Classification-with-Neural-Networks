@@ -13,3 +13,23 @@ A neural network is a computational model inspired by the way biological neural 
 Neural networks learn from data through a process known as training. During training, the model adjusts its weights iteratively to minimize the difference between predicted outputs and actual targets. This is typically done using optimization algorithms and a defined loss function.
 
 Neural networks are capable of learning complex and non-linear relationships in data, making them powerful tools for tasks such as image recognition, natural language processing, and various types of pattern recognition. Different architectures, such as convolutional neural networks (CNNs) for images or recurrent neural networks (RNNs) for sequential data, are designed to address specific types of problems.
+
+## Diabetes Classification
+
++ Goal - Train a neural network model to predict whether a person will have diabetes or not based on different features.
+
++ Dataset - diabetes.csv
+
++ Tool used - Google Colab
+
++ Model Accuracy - 77.5%
+
+## Text Classification
+
++ Goal - Train a neural network model to classify text and find out whether a review is positive or negative.
+
++ Dataset - wine-reviews.csv
+
++ Tool used - Google Colab
+
++ Model Accuracy - 84%
